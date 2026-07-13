@@ -14,7 +14,13 @@
 ![](https://streak-stats.demolab.com/?user=MaazAli-27&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MaazAli-27&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/MaazAli-27/MaazAli-27/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaazAli-27/MaazAli-27/snake-output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaazAli-27/MaazAli-27/snake-output/snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/MaazAli-27/MaazAli-27/snake-output/snake.svg">
+  </picture>
+</p>
 
 ###
 
