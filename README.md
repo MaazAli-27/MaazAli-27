@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Maaz Ali Banner" width="100%" />
+</p>
 ## Hi there 👋
 
 # 💫 About Me:
