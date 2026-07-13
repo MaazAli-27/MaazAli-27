@@ -33,7 +33,59 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MaazAli-27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📌 Top Repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/MaazAli-27/Resturant-ordering-system">🍽️ Savoria — Restaurant Ordering System</a></h3>
+      Full-stack restaurant platform (customer app, admin dashboard, backend API) with real-time order tracking via Socket.io, Stripe payments, table reservations, JWT auth, and PDF invoice generation.
+      <br><br>
+      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Stripe</code> <code>Socket.io</code>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/MaazAli-27/school-management-system">🎓 School Management System</a></h3>
+      Role-based desktop app with dedicated Admin, Teacher, and Student dashboards for attendance, class scheduling, exam management, and results.
+      <br><br>
+      <code>C++</code> <code>Qt Framework</code> <code>MySQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/sarimkhan4/Local_Service_Marketplace">🛠️ Local Service Marketplace</a></h3>
+      Full-stack service booking platform with RBAC, scheduling, payments, and reviews — contributed to the NestJS backend and Angular frontend.
+      <br><br>
+      <code>Angular</code> <code>NestJS</code> <code>TypeORM</code> <code>MySQL</code>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/MaazAli-27/Maze-Game">🧩 Maze Solver & Game (BFS Pathfinding)</a></h3>
+      20×20 console-based maze with manual gameplay and an automatic shortest-path solver using Breadth-First Search graph traversal.
+      <br><br>
+      <code>C++</code> <code>BFS</code> <code>Graph Algorithms</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/MaazAli-27/Advanced-rock-paper-scissor">⚡ Neon Clash: RPSLS Super Ultra</a></h3>
+      Cyberpunk arcade take on Rock-Paper-Scissors-Lizard-Spock with an HP/combo system, a Markov-chain predictive AI opponent, Gemini-powered taunts, and Firebase cloud stats.
+      <br><br>
+      <code>JavaScript</code> <code>Tailwind CSS</code> <code>Firebase</code> <code>Gemini API</code>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/MaazAli-27/SNAKE-AND-LADDER-GAME">🎲 Snake & Ladder Game</a></h3>
+      Classic Snake and Ladder built in C with Raylib for graphics rendering.
+      <br><br>
+      <code>C</code> <code>Raylib</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/MaazAli-27/Tic-Tac-Toe-">❌⭕ Tic-Tac-Toe</a></h3>
+      Classic two-player Tic-Tac-Toe implementation.
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ---
 [![](https://komarev.com/ghpvc/?username=MaazAli-27&icon=1&color=0)](https://visitcount.itsvg.in)
