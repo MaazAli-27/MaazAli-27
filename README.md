@@ -14,8 +14,9 @@
 ![](https://streak-stats.demolab.com/?user=MaazAli-27&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MaazAli-27&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MaazAli-27&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img data-importer="snake" src="https://raw.githubusercontent.com/MaazAli-27/MaazAli-27/snake-output/snake.svg" alt="Snake animation" />
+
+###
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
