@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./assets/banner.png" alt="Maaz Ali Banner" width="100%" />
 </p>
-## Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Web Applications with Django & React<br><br>👯 I’m looking to collaborate on Open Source, Backend, and AI-powered projects<br><br>🤝 I’m looking for help with System Design, Cloud Technologies, and Machine Learning<br><br>🌱 I’m currently learning Django, REST APIs, Docker, AI/ML, and PostgreSQL<br><br>💬 Ask me about C++, Python, Django, React, SQL, and Data Structures & Algorithms<br><br>⚡ Fun fact I love turning ideas into real-world software and continuously learning new technologies
